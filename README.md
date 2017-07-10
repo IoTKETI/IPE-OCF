@@ -4,9 +4,6 @@
 ## what is oneM2M OCF IPE?
 see more in [OCEAN webpage](iotocean.org/main/)
 
-Link: [OCEAN webpage][oceanlink]
-[oceanlink]: iotocean.org/main/ "OCEAN webpage"
-
 > *oneM2M* is an IoT server platform standard that supports devices as well as cloud server, while *OCF(Open Connectivity Foundation)* is an IoT service platform that supports devices. *IPE(Interworking Proxy Entity)* defined in *oneM2M* enables *OCF* devices to work with *oneM2M* server side platform.
 
 ![OCF IPE image1](http://iotocean.weebly.com/uploads/9/9/5/2/99521100/published/onem2m-ocf-interworking.jpg?1499651604)
