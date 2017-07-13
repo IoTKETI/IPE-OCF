@@ -15,3 +15,6 @@ see more in [OCEAN webpage](iotocean.org/main/)
 
 ----
 
+## Notice
+This version of OCF IPE is working base on IoTivity 1.2.1. Other version of IoTivity that we do not test yet. 
+
